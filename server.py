@@ -2,8 +2,7 @@ import socket
 import threading
 
 HOST = "127.0.0.1" # localhost IP
-# HOST = "10.16.26.156" # private IP
-#   connect to 142.55.3.15
+# HOST = "..." # private IP (ipconfig)
 PORT = 9090
 
 # Server setup
