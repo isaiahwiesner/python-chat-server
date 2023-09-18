@@ -1,5 +1,5 @@
 ﻿# python-chat-server
-This project features 2 Python programs; a server and a client. To start a chat server, read follow the steps below.
+This project features 2 Python programs; a server and a client. To start a chat server, follow the steps below.
 
 
 ### Server Setup
